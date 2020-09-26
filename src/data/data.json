@@ -1,0 +1,100 @@
+{
+    "Header": {
+
+        "title": "SAHABATECH",
+        "paragraph": "Kami Selalu Memberikan Pelayanan yang Terbaik Untuk Anda."
+
+    },
+    "About": {
+        "paragraph": "Sahabatech merupakan solusi untuk setiap permasalahan yang ada pada bidang teknologi, sahabatech berdiri sejak 2017 yang berfokus pada bidang teknologi terutama pada bidang perangkat keras dan perangkat lunak, namun kami selalu berusaha untuk menangani semua permasalahan yang ada sesuai kebutuhan dari client dan memberikan solusi terbaik akan setiap permasalahan.",
+        "Why": [
+            "Sahabatech memiliki visi menjadi partner IT Solutions terbaik dan menjadi sebuah jasa service komputer dan lainnya yang dapat dipercaya serta menjadi sebuah usaha yang bisa lebih dikenal luas oleh masyarakat pada umumnya."
+        ],
+        "Why2": [
+            "Misi kami untuk memberikan kualitas dalam hal pelayanan, Harga yang ekonomis dengan kualitas yang baik, bagus dan terpercaya, serta Penyelesaian pekerjaan secara tepat waktu Bertanggung jawab terhadap segala sesuatu yang telah disepakati bersama"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-laptop",
+            "name": "Installasi PC / Laptop",
+            "text": "Installasi PC / Laptop, kami memberikan pelayanan untuk installasi software. seperti System Operasi Windows, Microsoft Office, Adobe, dll."
+        },
+        {
+            "icon": "fa fa-wifi",
+            "name": "Installasi jaringan",
+            "text": "Installasi Jaringan Internet, Kami Menerima pemasangan jaringan internet kantor dengan ruang lingkup lokal area ataupun public."
+        },
+        {
+            "icon": "fa fa-connectdevelop",
+            "name": "Lorem ipsum dolor",
+            "text": "Pembuatan Software, Kami Menerima pembuatan program Website, Desktop App dan Android App."
+        },
+        {
+            "icon": "fa fa-wrench",
+            "name": "Consectetur adipiscing",
+            "text": "Kerusakan Berat Dan Lainnya, Menerima permintaan diluar kategory seperti maintenance alat kerja dan perbaikan perangkat keras."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/1.png",
+            "text": "\"Letak memang masuk komplek perumahan... tapi mas owner yang ahli di bidangnya sangat baik, sabar, helpful, kunci utama tempat ini rekomended buat yang punya masalah laptop sekitar tangerang.\"",
+            "name": "Vonny Liu"
+        },
+        {
+            "img": "img/testimonials/2.png",
+            "text": "\"Serius, laptop gw yg mati total g nyampe 1 hari udah kelar masukin siang selese sore,  emang mantep pelayanannya top markotop, udah gtu harganya bersahabat sesuai namanya.\"",
+            "name": "luthfandi firdaus"
+        },
+        {
+            "img": "img/testimonials/3.png",
+            "text": "\"Mantap ramah orangnya, cepet kerjanya, sangat terjangkau harganya.... pagi datang kesana malam dikasih tau kerusakanya besoknya sudah bisa diambil.yang mau service saya sarankan coba disini.\"",
+            "name": "Yuniawan Awan"
+        },
+        {
+            "img": "img/testimonials/3.png",
+            "text": "\"Mantap ramah orangnya, cepet kerjanya, sangat terjangkau harganya.... pagi datang kesana malam dikasih tau kerusakanya besoknya sudah bisa diambil.yang mau service saya sarankan coba disini.\"",
+            "name": "Yuniawan Awan"
+        },
+        {
+            "img": "img/testimonials/5.png",
+            "text": "\"Bukan hanya keahlian yg handal. Pelayanan nya pun sangat memuaskan. Pengalaman sy baru semalam di kejar2 untuk perbaikan krena ingin di pakai adik hari ini di selesaikan semalam suntuk trimakasih SahabaTech.\"",
+            "name": "Nofrian Rahmadani"
+        },
+        {
+            "img": "img/testimonials/6.png",
+            "text": "\"Sipp PC saya berjalan lagi setelah sy utak atik gak tapi ga bs, Mudah2an lancar usahanya, tambah lagi customernya!, Harga servis murah, jangan ragu servis dsni....\"",
+            "name": "Deny Dwip1312"
+        }
+    ],
+    "Contact": {
+        "address": "Jl. Cakra Buana VI No.12, RT.007/RW.001, Kunciran, Kec. Pinang, Kota Tangerang, Banten 15144",
+        "phone": "+62 89633026304",
+        "email": "care@sahabatech.co.id",
+        "google": "https://www.google.com/search?q=Sahabatech&oq=sahabate&aqs=chrome.0.69i59j69i57j46j0l2j69i60l3.1707j0j9&sourceid=chrome&ie=UTF-8#lpqa=a,,d,1",
+        "facebook": "https://web.facebook.com/pages/category/Engineering-Service/Sahabatech-520079691833100/?_rdc=1&_rdr",
+        "instagram": "https://www.instagram.com/sahabatech/"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
